@@ -1,0 +1,13 @@
+C:\Users\Matus\Desktop\PROJECT\Mand_Exe_1\.vs\Mand_Exe_1\lut\0\b\BookTest\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Matus\Desktop\PROJECT\Mand_Exe_1\.vs\Mand_Exe_1\lut\0\b\BookTest\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Matus\Desktop\PROJECT\Mand_Exe_1\.vs\Mand_Exe_1\lut\0\b\BookTest\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Matus\Desktop\PROJECT\Mand_Exe_1\.vs\Mand_Exe_1\lut\0\b\BookTest\Debug\netcoreapp2.2\BookTest.deps.json
+C:\Users\Matus\Desktop\PROJECT\Mand_Exe_1\.vs\Mand_Exe_1\lut\0\b\BookTest\Debug\netcoreapp2.2\BookTest.runtimeconfig.json
+C:\Users\Matus\Desktop\PROJECT\Mand_Exe_1\.vs\Mand_Exe_1\lut\0\b\BookTest\Debug\netcoreapp2.2\BookTest.runtimeconfig.dev.json
+C:\Users\Matus\Desktop\PROJECT\Mand_Exe_1\.vs\Mand_Exe_1\lut\0\b\BookTest\Debug\netcoreapp2.2\BookTest.dll
+C:\Users\Matus\Desktop\PROJECT\Mand_Exe_1\.vs\Mand_Exe_1\lut\0\i\BookTest\Debug\netcoreapp2.2\BookTest.csprojAssemblyReference.cache
+C:\Users\Matus\Desktop\PROJECT\Mand_Exe_1\.vs\Mand_Exe_1\lut\0\i\BookTest\Debug\netcoreapp2.2\BookTest.csproj.CoreCompileInputs.cache
+C:\Users\Matus\Desktop\PROJECT\Mand_Exe_1\.vs\Mand_Exe_1\lut\0\i\BookTest\Debug\netcoreapp2.2\BookTest.AssemblyInfoInputs.cache
+C:\Users\Matus\Desktop\PROJECT\Mand_Exe_1\.vs\Mand_Exe_1\lut\0\i\BookTest\Debug\netcoreapp2.2\BookTest.AssemblyInfo.cs
+C:\Users\Matus\Desktop\PROJECT\Mand_Exe_1\.vs\Mand_Exe_1\lut\0\i\BookTest\Debug\netcoreapp2.2\BookTest.csproj.CopyComplete
+C:\Users\Matus\Desktop\PROJECT\Mand_Exe_1\.vs\Mand_Exe_1\lut\0\i\BookTest\Debug\netcoreapp2.2\BookTest.dll

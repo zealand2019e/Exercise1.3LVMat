@@ -1,0 +1,4 @@
+C:\Users\Matus\Desktop\PROJECT\Mand_Exe_1\BookTest\obj\Debug\netcoreapp2.1\BookTest.csprojAssemblyReference.cache
+C:\Users\Matus\Desktop\PROJECT\Mand_Exe_1\BookTest\obj\Debug\netcoreapp2.1\BookTest.csproj.CoreCompileInputs.cache
+C:\Users\Matus\Desktop\PROJECT\Mand_Exe_1\BookTest\obj\Debug\netcoreapp2.1\BookTest.AssemblyInfoInputs.cache
+C:\Users\Matus\Desktop\PROJECT\Mand_Exe_1\BookTest\obj\Debug\netcoreapp2.1\BookTest.AssemblyInfo.cs

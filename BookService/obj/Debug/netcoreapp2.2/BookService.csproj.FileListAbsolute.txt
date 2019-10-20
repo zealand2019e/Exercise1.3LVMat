@@ -1,0 +1,17 @@
+C:\Users\Matus\Desktop\STEAM\Mand_Exe_1\BookService\bin\Debug\netcoreapp2.2\BookService.deps.json
+C:\Users\Matus\Desktop\STEAM\Mand_Exe_1\BookService\bin\Debug\netcoreapp2.2\BookService.runtimeconfig.json
+C:\Users\Matus\Desktop\STEAM\Mand_Exe_1\BookService\bin\Debug\netcoreapp2.2\BookService.runtimeconfig.dev.json
+C:\Users\Matus\Desktop\STEAM\Mand_Exe_1\BookService\bin\Debug\netcoreapp2.2\BookService.dll
+C:\Users\Matus\Desktop\STEAM\Mand_Exe_1\BookService\obj\Debug\netcoreapp2.2\BookService.csprojAssemblyReference.cache
+C:\Users\Matus\Desktop\STEAM\Mand_Exe_1\BookService\obj\Debug\netcoreapp2.2\BookService.csproj.CoreCompileInputs.cache
+C:\Users\Matus\Desktop\STEAM\Mand_Exe_1\BookService\obj\Debug\netcoreapp2.2\BookService.RazorAssemblyInfo.cache
+C:\Users\Matus\Desktop\STEAM\Mand_Exe_1\BookService\obj\Debug\netcoreapp2.2\BookService.RazorAssemblyInfo.cs
+C:\Users\Matus\Desktop\STEAM\Mand_Exe_1\BookService\obj\Debug\netcoreapp2.2\BookService.AssemblyInfoInputs.cache
+C:\Users\Matus\Desktop\STEAM\Mand_Exe_1\BookService\obj\Debug\netcoreapp2.2\BookService.AssemblyInfo.cs
+C:\Users\Matus\Desktop\STEAM\Mand_Exe_1\BookService\obj\Debug\netcoreapp2.2\BookService.RazorTargetAssemblyInfo.cache
+C:\Users\Matus\Desktop\STEAM\Mand_Exe_1\BookService\bin\Debug\netcoreapp2.2\BookService.pdb
+C:\Users\Matus\Desktop\STEAM\Mand_Exe_1\BookService\obj\Debug\netcoreapp2.2\BookService.dll
+C:\Users\Matus\Desktop\STEAM\Mand_Exe_1\BookService\obj\Debug\netcoreapp2.2\BookService.pdb
+C:\Users\Matus\Desktop\STEAM\Mand_Exe_1\BookService\bin\Debug\netcoreapp2.2\Mand_Exe_1.dll
+C:\Users\Matus\Desktop\STEAM\Mand_Exe_1\BookService\bin\Debug\netcoreapp2.2\Mand_Exe_1.pdb
+C:\Users\Matus\Desktop\STEAM\Mand_Exe_1\BookService\obj\Debug\netcoreapp2.2\BookService.csproj.CopyComplete
